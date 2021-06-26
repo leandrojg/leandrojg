@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![img](https://github.com/leandrojg/leandrojg/tree/Proyecto/src/readmeimg.gif)
+![img](https://github.com/leandrojg/leandrojg/blob/Proyecto/src/readmeimg.gif?raw=true)
 
 - 🔭 I’m currently working on Web development projects.
 - 🌱 I’m currently learning development mostly in Back-End tools like TypeScript, NodeJs, Express, Sequelize, PostgreSQL, Python, C++, Jest and Postman
