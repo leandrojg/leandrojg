@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![img](https://github.com/leandrojg/leandrojg/tree/Proyecto/src/readmeimg.gif)
+
 - 🔭 I’m currently working on Web development projects.
 - 🌱 I’m currently learning development mostly in Back-End tools like TypeScript, NodeJs, Express, Sequelize, PostgreSQL, Python, C++, Jest and Postman
 - 👯 I’m looking to collaborate on learning porjects.
